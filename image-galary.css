@@ -1,0 +1,12 @@
+jumbotron {
+    color: #2c3e50;
+    background: #ecf0f1;
+
+  }
+  .jumbotron h1 i{
+      font-size : 65px;
+      padding-right : 10px;
+  }
+dropdown-menu>a{
+    color:white;
+}
